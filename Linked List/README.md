@@ -1,4 +1,6 @@
 # the solution for creation of a basic linked list is created
 I've 4 more pending files to upload in this folder and 
 I think that I should create a separate folder for question section which I solved during the course ka time
+sept 29:-
 I've added solution for insertion at any position in a linked list.
+and solution for linear search in a linked list
