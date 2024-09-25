@@ -7,3 +7,6 @@ and solution for linear search in a linked list
 sept 24:- 
 created a folder called Imp Questions
 and posted two solutions for leetcode problems
+sept 25:-
+I uploaded 2 files in imp question section 
+one is a normal solution using cpp and other one is a solution using recursion for the same problem
