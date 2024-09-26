@@ -10,3 +10,5 @@ and posted two solutions for leetcode problems
 sept 25:-
 I uploaded 2 files in imp question section 
 one is a normal solution using cpp and other one is a solution using recursion for the same problem
+sept 26:- 
+3 more files added in linked list -> imp questions section
