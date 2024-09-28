@@ -7,3 +7,4 @@ on 23/09/24 I uploaded a file in array section which has a solution to all types
 yeah it's 29 sept and I added three more files in linked list section, basically solutions for insertion at any position and linear search in linked list 
 two more files I uplaoded in imp linked list/imp questions section
 #finished adding all of my files in the linked list section next I'll create few more folders and then upload all of my work in them
+#uploaded two files in the binary search section instead of stack as I completely forgot about it's existence 
